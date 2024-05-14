@@ -1,0 +1,20 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "typescript design patterns",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "cobocho",
+  "license": "ISC",
+  "devDependencies": {
+    "@titicaca/eslint-config-triple": "^5.1.1",
+    "@titicaca/prettier-config-triple": "^1.1.0",
+    "@types/node": "^20",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "5.2.2"
+  }
+}
